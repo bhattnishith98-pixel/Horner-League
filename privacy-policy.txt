@@ -1,0 +1,39 @@
+Privacy Policy for stardush: run beyond the stars
+
+Last updated: October 12, 2026
+
+stardush: run beyond the stars ("we", "our", or "us") respects your privacy. This Privacy Policy describes how your information is collected, used, and disclosed when you play our game.
+
+Information Collection and Use
+
+For a better experience while playing our game, we may require you to provide us with certain personally identifiable information. However, we do not directly collect or store your personal data like your name, physical address, or phone number.
+
+Third-Party Services and Ads
+
+Our game integrates third-party services that may collect information used to identify your device to deliver advertisements and analyze app performance.
+
+We use Google AdMob to display ads in the game. Google AdMob may collect and use information such as:
+- Advertising ID / Device Identifier
+- IP Address
+- Network Information
+- App Performance and Diagnostic Data
+
+To learn more about how Google uses data when you use our app, please visit:
+https://policies.google.com/technologies/partner-sites
+
+Data Safety & Protection
+
+We value your trust in playing our game, and we strive to use commercially acceptable means of protecting your information. However, remember that no method of transmission over the internet or method of electronic storage is 100% secure.
+
+Children's Privacy
+
+Our game is intended for a general audience. We do not knowingly collect personally identifiable information from children under the age of 13. If you believe that a child has provided us with personal information, please contact us so we can take necessary actions.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
+
+Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+Email: bhattnishith98@gmail.com
